@@ -1,0 +1,50 @@
+.heading28{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  }
+  .div{
+    border: 0.1px solid rgb(255, 255, 255);
+    background: url(https://img.freepik.com/free-vector/gray-abstract-wireframe-background_53876-99911.jpg?w=1060&t=st=1679249939~exp=1679250539~hmac=91913a4001618a972108914d73ce004293e4108026000a6d54e5ed227dc49ae9)
+    no-repeat center / cover;
+  
+  }
+  .con28{
+    border: 0.1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    background: url(https://i.postimg.cc/D0M5xY2J/wall-wallpaper-concrete-colored-painted-textured-concept.jpg)
+    no-repeat center / cover;
+    width: 60%;
+    margin-top: 50px;
+    margin: auto;
+  }
+  .heading128{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    /* font-family: Arial Black; */
+    }
+    .con128{
+      border: 0.1px solid rgb(0, 0, 0);
+      border-radius: 20px;
+      width: 60%;
+      margin-top: 50px;
+      margin: auto;
+      margin-bottom: 70px;
+      background: url(https://i.postimg.cc/D0M5xY2J/wall-wallpaper-concrete-colored-painted-textured-concept.jpg)
+      no-repeat center / cover;
+    }
+    .para128{
+      width: 90%;
+      margin: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    letter-spacing: 2px;
+    color: white;
+    font-size: 18px;
+    font-family: Arial Rounded MT Bold;
+    }

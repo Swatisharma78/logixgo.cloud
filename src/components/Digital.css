@@ -1,0 +1,65 @@
+
+.perfectdiv1{
+  width: 70%;
+  margin: auto;
+}
+.firstdiv1{
+  border: 1px solid rgb(218, 218, 218);
+  background: url(https://img.freepik.com/free-vector/worldwide-connection-gray-background-illustration-vector_53876-61769.jpg?w=1060&t=st=1679233439~exp=1679234039~hmac=725b9bbca9a1d61a98ab2ea7d5881c0bbbf0125437706b47115877340b8c58d4)
+  no-repeat center / cover;
+}
+.st1{
+  font-size: 40px;
+  color: rgb(0, 3, 85);
+  font-family: Arial;
+}
+.para01{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 50px;
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+}
+.digihead1{
+text-align: center; 
+margin-top: 20px;
+color: rgb(0, 0, 0);
+font-size: 40px;
+font-weight: bold;
+font-family: Arial;
+}
+.digipara1{
+  text-align: center; 
+  margin-top: 15px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+}
+.sam1{
+  border: 5px solid rgb(255, 0, 0);
+color: white;
+border-radius: 20px;
+box-shadow: 0 0 5px 2px #b4b3b3;
+background: url(https://i.postimg.cc/D0M5xY2J/wall-wallpaper-concrete-colored-painted-textured-concept.jpg)
+no-repeat center / cover;
+
+
+}
+.textbox{
+  margin: auto;
+  letter-spacing: 1px;
+  color: white;
+  font-family: Arial;
+}
+.headbox{
+  margin: auto;
+  color: white;
+/* font-size: 40px; */
+}
+.mini28{
+  width: 80%;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+}

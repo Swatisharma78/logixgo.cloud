@@ -1,0 +1,72 @@
+.container {
+   height: fit-content;
+   width: 100rw;
+   padding-bottom: 5%;
+   padding-top: 30px; 
+}
+.contentdiv {
+   height: 75%;
+   width: 100rw;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   gap: 5%; 
+}
+
+.childdiv {
+   border: 1px solid rgb(255, 255, 255);
+   height: fit-content;
+   width: 20%;
+   background-color: #0a1e36 ;
+   padding-bottom: 20px;
+   box-shadow: 5px 5px 5px white;
+   margin-bottom: 5px;
+   text-align: center;
+   color: white;
+   margin-top: 40px;
+   letter-spacing: 2px;
+   
+}
+
+.childdiv:hover{
+   transform: scale(1.1);
+}
+@media screen and (max-width:570px) {
+    .container{
+       height: fit-content;
+       
+    }
+    .contentdiv{
+       height: fit-content;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       gap: 20px;
+       width: 100rw;
+    }
+    .childdiv{
+       width: 100%;
+    }
+}
+@media screen and (max-width:800px) {
+   .container{
+      height: fit-content;  
+   }
+   .contentdiv{
+      height: fit-content;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;  
+   }
+   .childdiv{
+      width: 50%;
+   }
+}
+.missionheading{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+  
+}

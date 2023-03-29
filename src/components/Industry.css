@@ -1,0 +1,49 @@
+.firstdiv12{
+  border: 1px solid rgb(218, 218, 218);
+background-color: #c3c3c5;
+}
+.digihead12{
+  text-align: center; 
+  margin-top: 20px;
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: bold;
+   }
+    .digipara12{
+      text-align: center; 
+      margin-top: 15px;
+      font-size: 20px;
+      color: rgb(0, 0, 0);
+     
+    }
+    .mini282{
+      width: 70%;
+      margin: auto;
+      margin-top: 60px;
+      margin-bottom: 60px;
+      display: flex;
+      border-radius: 20px;
+    }
+    * {
+      box-sizing: border-box;
+  }
+  .IThead{
+font-size: 30px;
+width: 80%;
+margin: auto;
+margin-top: 20px;
+font-weight: bold;
+  }
+  .ITpara{
+font-size: 20px;
+width: 80%;
+margin: auto;
+margin-top: 20px;
+margin-bottom: 50px;
+  }
+  .Box28{
+      border-radius: 20px;
+      background: url(https://i.postimg.cc/D0M5xY2J/wall-wallpaper-concrete-colored-painted-textured-concept.jpg)
+      no-repeat center / cover;
+      color: white;
+  }

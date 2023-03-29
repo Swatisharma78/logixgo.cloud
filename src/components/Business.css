@@ -1,0 +1,53 @@
+
+.perfectdiv3{
+  width: 70%;
+  margin: auto;
+  
+}
+.firstdiv3{
+  background: url(https://img.freepik.com/free-vector/gray-abstract-wireframe-background_53876-99911.jpg?w=1060&t=st=1679249939~exp=1679250539~hmac=91913a4001618a972108914d73ce004293e4108026000a6d54e5ed227dc49ae9)
+  no-repeat center / cover;
+  border: 1px solid rgb(255, 255, 255);
+
+}
+.st3{
+  font-size: 30px;
+  color: navy;
+}
+.para0{
+  font-size: 20px;
+}
+.digihead3{
+text-align: center; 
+margin-top: 70px;
+font-size: 50px;
+font-weight: bold;
+}
+.digipara3{
+  text-align: center; 
+  margin-top: 15px;
+  font-size: 20px;
+  width: 60%;
+  margin: auto;
+  font-family: Arial;
+}
+.sam3{
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: 0 0 5px 2px #bfbfbf;
+  background-color: #e6f7f9;
+  background: url(https://i.postimg.cc/D0M5xY2J/wall-wallpaper-concrete-colored-painted-textured-concept.jpg)
+  no-repeat center / cover;
+}
+.businesshead{
+  width: 90%;
+  margin: auto;
+  color: white;
+}
+.businesstext{
+  width: 90%;
+  margin: auto;
+  letter-spacing: 1px;
+  color: white;
+  font-family: Arial;
+}
